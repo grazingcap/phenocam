@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+# Jonah Duckles - jduckles@ou.edu
+# Compute relative brightness of each color as it contributes to 
+#   the entire image
+
 import sys
 import Image
 import numpy
